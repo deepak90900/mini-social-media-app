@@ -1,0 +1,13 @@
+{
+  "hosting": {
+    "public": "dist",
+    "target": "mini-social-media-46d81",
+    "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}

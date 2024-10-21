@@ -1,0 +1,16 @@
+{
+  "projects": {
+    "default": "mini-social-media-46d81"
+  },
+  "targets": {
+    "mini-social-media-46d81": {
+      "hosting": {
+        "mini-social-media-46d81": [
+          "mini-social-media-46d81"
+        ]
+      }
+    }
+  },
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
